@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 1/paths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 2/astar2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 3/fsm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 4/behavior-trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignment 5/planning" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (gameai)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
